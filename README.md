@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Duzera95
-- 👀 I’m interested in learning more!
+- 👋 Hi, I’m Eduardo!
+- 👀 I’m interested in learning more
 - 🌱 I’m currently learning Full-Stack
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me dualves46@gmail.com
