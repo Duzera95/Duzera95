@@ -1,1 +1,1 @@
-Curioso, ótimo relacionamento interpessoal e um senso de análise de perfil apurado, sempre em busca de novos desafios. Embora tenha executado trabalhos por um longo período com Customer Experience, venho buscando me aprofundar cada vez mais no mundo da programação e me tornar uma pessoa extremamente qualificada como DEV. Acredito que os princípios de um bom profissional devem ser humildade, integridade e eterno desejo pelo aprendizado.
+
