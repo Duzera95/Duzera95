@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Eduardo!
-- 👀 I’m interested in learning more
-- 🌱 I’m currently learning Full-Stack
-- 💞️ I’m looking to collaborate on Front-End
-- 📫 How to reach me dualves46@gmail.com
-
-<!---
-Duzera95/Duzera95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Curioso, ótimo relacionamento interpessoal e um senso de análise de perfil apurado, sempre em busca de novos desafios. Experiência de longa data com vendas internas, pós vendas, abandono de carrinhos, suporte ao cliente e contato via telefone ou redes sociais, além dos e-mails. Me moldei profissionalmente trabalhando com Customer Experience de forma humanizada, entendendo a necessidade de cada ser como única. Acredito que os princípios de um bom profissional devem ser humildade, integridade e eterno desejo pelo aprendizado.
