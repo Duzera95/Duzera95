@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duzera95&label=Profile%20views&color=0e75b6&style=flat" alt="duzera95" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 Estou estudando atualmente **Análise e Desenvolvimento de Sistemas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
