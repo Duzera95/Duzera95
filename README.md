@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eduardo Alves de Souza Maximo</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil!</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/606c866d99c8f8aa304cc746cd26ce95/482045a298b8f0d9-de/s500x750/f0daa0caa8ab5f04c9384301990a6558c1ed5bb2.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duzera95&label=Profile%20views&color=0e75b6&style=flat" alt="duzera95" /> </p>
 
-- 🌱 Estou estudando atualmente **Análise e Desenvolvimento de Sistemas**
+- 🌱 Atualmente, estudo **Análise e Desenvolvimento de Sistemas!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
