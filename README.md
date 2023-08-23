@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Eduardo aqui 👋</h1>
+<h1 align="center">Olá, Eduardo aqui! 👋</h1>
 <h3 align="center">Um desenvolvedor apaixonado pela área!</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/606c866d99c8f8aa304cc746cd26ce95/482045a298b8f0d9-de/s500x750/f0daa0caa8ab5f04c9384301990a6558c1ed5bb2.gifv">
 
